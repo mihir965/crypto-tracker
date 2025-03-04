@@ -15,6 +15,5 @@ title: Setup Guide
 ### Clone the Repository
 
 ```sh
-git clone <your-repo-url>
-cd crypto-tracker
+git clone git@github.com:mihir965/crypto-tracker.git
 ```
